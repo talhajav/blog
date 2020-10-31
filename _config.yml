@@ -1,6 +1,6 @@
 # Setup
 title: Dark Poole
-url: http://talhajav.github.io/blog
+url: talhajaved.me
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
 baseurl: "/blog"
