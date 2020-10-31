@@ -1,9 +1,9 @@
 # Setup
 title: Dark Poole
-url: http://talhajav.github.io
+url: http://talhajav.github.io/blog
 paginate: 1
 paginate_path: "/dark-poole/page:num/"
-baseurl: "/dark-poole"
+baseurl: "/blog"
 permalink: pretty
 
 # Gems
