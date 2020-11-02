@@ -3,7 +3,7 @@ title: talhaworld
 url: 
 paginate: 1
 paginate_path: "/blog/page:num/"
-baseurl: ""
+baseurl: "talhajaved.me"
 permalink: pretty
 
 # Gems
