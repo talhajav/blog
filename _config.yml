@@ -1,6 +1,6 @@
 # Setup
 title: talhaworld
-url: talhajaved.me
+url: 
 paginate: 1
 paginate_path: "/blog/page:num/"
 baseurl: ""
