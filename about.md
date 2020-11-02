@@ -11,5 +11,5 @@ This site is an extension of myself onto the web.<br>
 <br>
 -->
 <br>
-You can find me  [here](mailto:talhajav97@gmail.com).<br>
+You can find me on [twitter](https://twitter.com/talhajworld) or [here](mailto:talhajav97@gmail.com).<br>
 <br>
