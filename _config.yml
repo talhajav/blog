@@ -1,8 +1,16 @@
 # Setup
+<<<<<<< HEAD
 title: Dark Poole
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
+=======
+title: talhaworld
+url: 
+paginate: 1
+paginate_path: "/blog/page:num/"
+baseurl: "talhajaved.me"
+>>>>>>> 3fa424f131d2e5477ef010870cac02a6bcf8ff92
 permalink: pretty
 
 # Gems
@@ -45,4 +53,11 @@ nav:
     url: /archive
 
   - title: About
+<<<<<<< HEAD
     url: /about
+=======
+    url: /blog/about
+    
+paginate_path: "/baseurl/page:num/"
+
+>>>>>>> 3fa424f131d2e5477ef010870cac02a6bcf8ff92
