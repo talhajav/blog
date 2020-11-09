@@ -7,13 +7,8 @@ My name is Talha Javed and I'm a mechatronics engineer with a variety of interes
 
 Some other things about me:
 - I recently graduated from the ME program the [University of Toronto](https://www.mie.utoronto.ca/undergraduate/undergraduate-program/mechanical-engineering/)
-- I am currently working on autonomous(ground) vehicles in the Bay Area but worked on medical devices and autonomous(air) vehicles in the past in Toronto. 
+- I am currently working on autonomous(ground) vehicles in the Bay Area but worked on medical devices and autonomous(air) vehicles in the past in Toronto.
 
-<!--
-<br>
-This site is an extension of myself onto the web.<br>
-<br>
--->
 <br>
 You can find me on [twitter](https://twitter.com/talhajworld) or [here](mailto:talhajav97@gmail.com) (I respond to every personal email I get).<br>
 <br>
